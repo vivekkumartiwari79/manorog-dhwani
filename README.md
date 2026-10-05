@@ -1,21 +1,28 @@
 # Manorog & Dhwani Nursing Home
 
-A responsive healthcare website for ENT, head and neck, oral cancer, and mental-health services in Katni, Madhya Pradesh.
+Production healthcare website case study for ENT and mental-health services.
 
-## Project Focus
+![Manorog & Dhwani website](manorogdhwani.png)
 
-- Clear presentation of healthcare services
-- Appointment-focused user journeys
-- Mobile-friendly, responsive pages
-- Specialist, facility, testimonial, and contact sections
-- Easy access to location and consultation information
+## Overview
+
+The website brings specialist healthcare information, doctor profiles and appointment-oriented journeys together in a responsive, patient-friendly experience.
+
+## Product Experience
+
+- Clear ENT and mental-health service discovery
+- Responsive healthcare information architecture
+- Doctor and specialist presentation
+- Appointment-focused calls to action
+- Contact, location and support journeys
+- Trust-building visual content
 
 ## My Contribution
 
-Web design and implementation with a focus on clear information architecture, accessibility, responsive layouts, and patient-friendly navigation.
+Selected professional work demonstrating responsive UI implementation, healthcare UX and business-focused front-end delivery.
 
 ## Live Website
 
-[manorogdhwani.com](https://manorogdhwani.com/)
+[Visit Manorog & Dhwani](https://manorogdhwani.com/)
 
-> This repository is a project case study. Client source code and private assets are not published.
+> Portfolio case study. Brand names and website content belong to their respective owners.
